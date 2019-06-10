@@ -2,3 +2,7 @@
 Repository fro Automating AWS with Python course
 
 author: Anoj Shrestha
+
+## 01-webotron
+
+Webotron is a script that will sync a local directory to a S3 bucket.
